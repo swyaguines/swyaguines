@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-Olá,  
-
 - 📚 Sou estudantde do 2 semestre de Analise e desenvolvimento de sistemas
 - 💻 Procuro estagio na area de desenvolvimento Web com foco no Front-End
 - 💬 Possuo Jvascript intermediario, CSS e HTML intermediario.
@@ -10,7 +5,6 @@ Olá,
 - 👑 Pronomes: Ela/Dela
 - ⚡ Nas horas vagas eu faço trabalho voluntario, traduzindo filmes do ingles para o portugues
 com o objetivo de levar cultura e acessibilidade para pessoas que não falam outra lingua.
--->
 
 
 <div align="center">
