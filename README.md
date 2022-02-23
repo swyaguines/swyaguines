@@ -1,9 +1,9 @@
 - 📚 Sou estudante do 2 semestre de Analise e desenvolvimento de sistemas
 - 💻 Procuro estagio na area de desenvolvimento Web com foco no Front-End
-- 💬 Possuo Jvascript intermediario, CSS e HTML intermediario.
+- 💬 Possuo HTML, CSS e Javascript intermediario.
 - 📫 Email: Swyaguines11@gmail.com
 - 👑 Pronomes: Ela/Dela
-- ⚡ Nas horas vagas eu faço trabalho voluntario, traduzindo filmes do ingles para o portugues
+- ⚡ Nas horas vagas,faço trabalho voluntario, traduzindo filmes do ingles para portugues,
 com o objetivo de levar cultura e acessibilidade para pessoas que não falam outra lingua.
 
 
