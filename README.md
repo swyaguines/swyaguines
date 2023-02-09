@@ -1,4 +1,4 @@
-- 📚 Sou estudante do 2 semestre de Analise e desenvolvimento de sistemas
+- 📚 Sou estudante do 3 semestre de Analise e desenvolvimento de sistemas
 - 💻 Procuro estagio na area de desenvolvimento Web com foco no Front-End
 - 💬 Possuo HTML, CSS e Javascript intermediario.
 - 📫 Email: Swyaguines11@gmail.com
