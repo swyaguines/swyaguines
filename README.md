@@ -1,6 +1,6 @@
-- 📚 Sou estudante do 3 semestre de Analise e desenvolvimento de sistemas
-- 💻 Procuro estagio na area de desenvolvimento Web com foco no Front-End
-- 💬 Possuo HTML, CSS e Javascript intermediario.
+- 📚 Sou estudante de Analise e desenvolvimento de sistemas
+- 💻 Faço estagio como analista de suporte.
+- 💬 Possuo HTML, CSS e Javascript intermediario, banco de dados Postgres, PSQL, PowerShell, Linux.
 - 📫 Email: Swyaguines11@gmail.com
 
 
